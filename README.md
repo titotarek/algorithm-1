@@ -53,7 +53,7 @@
  <a href="https://github.com/shayanzarei/master-class-algorithms/tree/main/10FibonacciSequence"><h3> 10 FFibonacci Sequence </h3></a>
 
 
-n = 881 -> x <br>
+
  
  <hr>
  
